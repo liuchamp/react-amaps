@@ -1,0 +1,35 @@
+{
+  "name": "react-amaps",
+  "version": "0.0.1",
+  "description": "Use react from baidu maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuchamp/react-amaps.git"
+  },
+  "keywords": [
+    "React",
+    "baidu",
+    "map"
+  ],
+  "author": "liuchamp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuchamp/react-amaps/issues"
+  },
+  "homepage": "https://github.com/liuchamp/react-amaps#readme",
+  "dependencies": {
+    "@types/react": "^16.4.18",
+    "@types/react-dom": "^16.0.9",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.1.4"
+  }
+}
